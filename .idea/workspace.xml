@@ -7,8 +7,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2359b28f-940c-4f32-a62b-7656f852559e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/web/WEB-INF/add.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/add.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/add.jsp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -98,12 +98,13 @@
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\rain\web\WEB-INF" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\rain\web\WEB-INF\lib" />
       <recent name="C:\rain\web\lib" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\rain\web" />
+      <recent name="C:\rain\web\WEB-INF" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -227,7 +228,7 @@
       <workItem from="1582020745543" duration="17127000" />
       <workItem from="1582117464238" duration="2147000" />
       <workItem from="1582121164452" duration="7324000" />
-      <workItem from="1582208276465" duration="489000" />
+      <workItem from="1582208276465" duration="3509000" />
     </task>
     <task id="LOCAL-00001" summary="实现首页展示雨量信息&#10;调整首页信息倒叙排序&#10;配置war包">
       <created>1582160519221</created>
@@ -236,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582160519223</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="实现首页展示雨量信息&#10;调整首页信息倒叙排列&#10;配置web.xml,实现打开首页自动显示雨量信息&#10;构建war包">
+      <created>1582209180319</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1582209180327</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -257,6 +265,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="实现首页展示雨量信息&#10;调整首页信息倒叙排序&#10;配置war包" />
-    <option name="LAST_COMMIT_MESSAGE" value="实现首页展示雨量信息&#10;调整首页信息倒叙排序&#10;配置war包" />
+    <MESSAGE value="实现首页展示雨量信息&#10;调整首页信息倒叙排列&#10;配置web.xml,实现打开首页自动显示雨量信息&#10;构建war包" />
+    <option name="LAST_COMMIT_MESSAGE" value="实现首页展示雨量信息&#10;调整首页信息倒叙排列&#10;配置web.xml,实现打开首页自动显示雨量信息&#10;构建war包" />
   </component>
 </project>
