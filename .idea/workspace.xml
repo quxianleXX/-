@@ -6,16 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2359b28f-940c-4f32-a62b-7656f852559e" name="Default Changelist" comment="实现首页展示雨量信息&#10;调整首页信息倒叙排序&#10;配置war包">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="2359b28f-940c-4f32-a62b-7656f852559e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/web/WEB-INF/add.jsp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/classes/dao/RainManageDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/classes/dao/RainManageDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/web_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/web_war_exploded/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/web_war_exploded/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/rain/dao/RainManageDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/rain/dao/RainManageDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/dao/RainManageDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/dao/RainManageDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -41,6 +34,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Jsp File" />
       </list>
     </option>
   </component>
@@ -99,8 +93,8 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/web/WEB-INF/lib" />
     <property name="project.structure.last.edited" value="Artifacts" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.23529412" />
+    <property name="project.structure.side.proportion" value="0.34636015" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -232,8 +226,17 @@
       <workItem from="1581994256178" duration="3000" />
       <workItem from="1582020745543" duration="17127000" />
       <workItem from="1582117464238" duration="2147000" />
-      <workItem from="1582121164452" duration="6778000" />
+      <workItem from="1582121164452" duration="7324000" />
+      <workItem from="1582208276465" duration="489000" />
     </task>
+    <task id="LOCAL-00001" summary="实现首页展示雨量信息&#10;调整首页信息倒叙排序&#10;配置war包">
+      <created>1582160519221</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1582160519223</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -251,5 +254,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="实现首页展示雨量信息&#10;调整首页信息倒叙排序&#10;配置war包" />
+    <option name="LAST_COMMIT_MESSAGE" value="实现首页展示雨量信息&#10;调整首页信息倒叙排序&#10;配置war包" />
   </component>
 </project>
